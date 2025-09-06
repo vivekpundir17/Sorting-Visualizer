@@ -1,30 +1,25 @@
-# Sorting Visualizer
-
 Sorting Visualizer is an interactive web application built with React that visualizes various sorting algorithms. The project demonstrates how each algorithm processes data by displaying real-time animations, making it easier to understand the logic and behavior of different sorting methods.
 
-## Features
-
+# Features
 - Visualizations for popular sorting algorithms:
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
   - Merge Sort
   - Quick Sort
-- Customizable array size and sorting speed
 - Step-by-step animations for better understanding
 - Responsive design using Tailwind CSS
 
-## Demo
+# Demo
+Visit : [here](https://sortbyak.netlify.app/).
 
-You can view the deployed project [here](https://sortbyak.netlify.app/).
+# Technologies Used
 
-## Technologies Used
+- *React* - For building user interfaces
+- *Tailwind CSS* - For responsive and modern styling
+- *JavaScript* - Core logic for sorting algorithms
 
-- **React** - For building user interfaces
-- **Tailwind CSS** - For responsive and modern styling
-- **JavaScript** - Core logic for sorting algorithms
-
-## Installation
+# Installation
 1. Clone the repository:
    ```bash
   git clone https://github.com/vivekpundir17/Sorting-Visualizer.git
